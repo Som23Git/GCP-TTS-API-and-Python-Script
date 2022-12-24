@@ -1,0 +1,7 @@
+<speak>
+Hello everyone, Hope you are all well.
+How are you, today? <break time="1s"/>
+This is a voice synthesize application using the GCP creds and the Text to Speech API. <break time="0.5s"/>
+Follow for more contexts like this!
+Have a great day ahead!
+</speak>
