@@ -1,14 +1,8 @@
 ## Text-to-Speech Setup using the GCP Cloud API
 
-<div align="center"> 
-<img src="./assets/GCP_small.png"/> 
-<img src="./assets/TTS_small.png"/>
-<img src="./assets/Python_small.png"/>
-<img src="./assets/API_small.png"/>  
-</div>
-
-
-
+| GCP  | TTS  | Python  | API  |
+|---|---|---|---|
+|![GCP_small](https://user-images.githubusercontent.com/93936168/209451993-9080d2af-4b18-413b-9e5b-5e64800d6bea.png)|![TTS_small](https://user-images.githubusercontent.com/93936168/209451995-3b70b2c2-60e3-4311-a57a-4cfabb4b815a.png)|![Python_small](https://user-images.githubusercontent.com/93936168/209451994-25596bcd-b939-4d9d-9b1c-ae0ec8f20b70.png)|![API_small](https://user-images.githubusercontent.com/93936168/209451992-da8c7468-4263-4aff-b02c-3970d5fcf5db.png)| 
 
 -------
 
