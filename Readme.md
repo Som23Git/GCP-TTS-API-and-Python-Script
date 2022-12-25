@@ -92,7 +92,8 @@ python3 synthesize_file.py --ssml input_file.ssml
 -------
 
 #### * Follow For More:
-[image](https://medium.com/@somesh-rokz)
+<p align="left">
+<a href="https://medium.com/@somesh-rokz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93936168/209452453-12f17afb-2de4-4248-aab1-f80ad5b95b91.png" alt="@somesh-rokz" height="40" width="40" /></a>
 
 ### **Thanks for checking this out!!** :heart:
 
