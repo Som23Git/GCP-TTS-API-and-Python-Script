@@ -18,7 +18,13 @@ This `autoexecute.sh` script file does all your work for `preinstallation` and `
 
 It is a straight-forward implementation, you should make sure to use the `Gcloud Libraries and Packages` to create an fail-free enivironment. 
 
-Just download the package and start the above `Python Command` to kickstart your experience in the `Text-To-Speech`.
+##### + Checklists
+- `gcloud -v`
+- `python3 -V`
+- `pip3 -V`
+- `GCP Account`
+
+Just download the package and start the `Python Command` to kickstart your experience in the `Text-To-Speech`.
 
 --------
 
