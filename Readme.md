@@ -1,10 +1,26 @@
-## Text-to-Speech Setup using the GCP Cloud API
+## Text-to-Speech Setup using the GCP Cloud API with Python Client
 
 | GCP  | TTS  | Python  | API  |
 |---|---|---|---|
 |![GCP_small](https://user-images.githubusercontent.com/93936168/209451993-9080d2af-4b18-413b-9e5b-5e64800d6bea.png)|![TTS_small](https://user-images.githubusercontent.com/93936168/209451995-3b70b2c2-60e3-4311-a57a-4cfabb4b815a.png)|![Python_small](https://user-images.githubusercontent.com/93936168/209451994-25596bcd-b939-4d9d-9b1c-ae0ec8f20b70.png)|![API_small](https://user-images.githubusercontent.com/93936168/209451992-da8c7468-4263-4aff-b02c-3970d5fcf5db.png)| 
 
 -------
+
+#### * For Easy Installation - Execute the Script File 
+
+``` 
+autoexecute.sh
+```
+This `autoexecute.sh` script file does all your work for `preinstallation` and `text-to-speech` processing. Just follow the steps and confirm your environment is setup appropriately.
+
+--------
+### * Implementation
+
+It is a straight-forward implementation, you should make sure to use the `Gcloud Libraries and Packages` to create an fail-free enivironment. 
+
+Just download the package and start the above `Python Command` to kickstart your experience in the `Text-To-Speech`.
+
+--------
 
 #### * To setup the GCP environment in local, start with the below command in the local Terminal
 ```
@@ -69,11 +85,8 @@ python3 synthesize_file.py --ssml input_file.ssml
 
 -------
 
-### * Implementation
+#### * Follow For More:
+[image](https://medium.com/@somesh-rokz)
 
-It is a straight-forward implementation, you should make sure to use the `Gcloud Libraries and Packages` to create an fail-free enivironment. 
-
-Just download the package and start the above `Python Command` to kickstart your experience in the `Text-To-Speech`.
-
-**Thanks for checking this out!!**
+### **Thanks for checking this out!!** :heart:
 
